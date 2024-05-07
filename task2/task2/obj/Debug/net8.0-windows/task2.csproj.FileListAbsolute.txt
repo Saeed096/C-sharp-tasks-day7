@@ -1,0 +1,16 @@
+E:\iti\c#\day7\task1\task2\task2\bin\Debug\net8.0-windows\task2.exe
+E:\iti\c#\day7\task1\task2\task2\bin\Debug\net8.0-windows\task2.deps.json
+E:\iti\c#\day7\task1\task2\task2\bin\Debug\net8.0-windows\task2.runtimeconfig.json
+E:\iti\c#\day7\task1\task2\task2\bin\Debug\net8.0-windows\task2.dll
+E:\iti\c#\day7\task1\task2\task2\bin\Debug\net8.0-windows\task2.pdb
+E:\iti\c#\day7\task1\task2\task2\obj\Debug\net8.0-windows\task2.Form1.resources
+E:\iti\c#\day7\task1\task2\task2\obj\Debug\net8.0-windows\task2.csproj.GenerateResource.cache
+E:\iti\c#\day7\task1\task2\task2\obj\Debug\net8.0-windows\task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\c#\day7\task1\task2\task2\obj\Debug\net8.0-windows\task2.AssemblyInfoInputs.cache
+E:\iti\c#\day7\task1\task2\task2\obj\Debug\net8.0-windows\task2.AssemblyInfo.cs
+E:\iti\c#\day7\task1\task2\task2\obj\Debug\net8.0-windows\task2.csproj.CoreCompileInputs.cache
+E:\iti\c#\day7\task1\task2\task2\obj\Debug\net8.0-windows\task2.dll
+E:\iti\c#\day7\task1\task2\task2\obj\Debug\net8.0-windows\refint\task2.dll
+E:\iti\c#\day7\task1\task2\task2\obj\Debug\net8.0-windows\task2.pdb
+E:\iti\c#\day7\task1\task2\task2\obj\Debug\net8.0-windows\task2.genruntimeconfig.cache
+E:\iti\c#\day7\task1\task2\task2\obj\Debug\net8.0-windows\ref\task2.dll
